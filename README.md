@@ -1,3 +1,3 @@
 # krpano-examples
 
-[Basic(Only preview)](/basic/)
+[Basic(Only preview)](./basic/)
