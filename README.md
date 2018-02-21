@@ -8,4 +8,6 @@
 
 [Pano with hotspot](./pano-with-hotspot/)
 
+[Events](./events/)
+
 [Pano scenes](./pano-scene/)

@@ -1,0 +1,20 @@
+<krpano>
+    <!-- grid preview pano -->
+    <preview type="grid(cube,64,64,512,0xCCCCCC,0xF6F6F6,0x999999);" />
+
+    <image>
+        <cube url="https://qhyxpicoss.kujiale.com/r/2017/09/01/L3D221IS3QKUQUQBOGAPEK3P3XU888_7500x1250.jpg_%s" />
+    </image>
+    <hotspot
+        name="image_hotspot"
+        type="image"
+        url="https://720-cdn3.3vjia.com/Panorama/public3.2.2/hotspot/hs_001.png"
+        ath="0"
+        atv="0"
+    />
+    <!-- view/fov settings -->
+    <view hlookat="0" vlookat="0" fovtype="VFOV" fov="90" fovmin="30" fovmax="150" />
+    <events
+        onviewchange="js(viewChange(get(view.hlookat), get(view.vlookat), get(view.fov)));"
+    />
+</krpano>
