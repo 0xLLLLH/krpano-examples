@@ -38,7 +38,7 @@
         var fov = document.querySelector('.j-fov');
 
         // global function for krpano
-        window.viewChange = function (h, v, f) {
+        function viewChange(h, v, f) {
             hlookat.innerText = h;
             vlookat.innerText = v;
             fov.innerText = f;
