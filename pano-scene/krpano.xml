@@ -8,7 +8,7 @@
         <hotspot
             name="image_hotspot"
             type="image"
-            url="https://0xllllh.github.io/krpano-examples/image/hotspot.png"
+            url="https://0xllllh.github.io/krpano-examples/images/hotspot.png"
             ath="0"
             atv="0"
             onclick="loadscene(scene2);"
