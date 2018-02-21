@@ -8,7 +8,7 @@
         <hotspot
             name="image_hotspot"
             type="image"
-            url="https://720-cdn3.3vjia.com/Panorama/public3.2.2/hotspot/hs_001.png"
+            url="https://0xllllh.github.io/krpano-examples/image/hotspot.png"
             ath="0"
             atv="0"
             onclick="loadscene(scene2);"
